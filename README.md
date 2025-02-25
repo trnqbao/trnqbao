@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a student majoring in Computer Science at TDTU.
+I am currently a student majoring in Computer Science at Ton Duc Thang University.
 
 <!--
 **trnqbao/trnqbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
